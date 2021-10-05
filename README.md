@@ -1,4 +1,4 @@
-# LADA: Look-Ahead Data Acquisition via Augmentation for Deep Active Learning
+# LADA: Look-Ahead Data Acquisition via Augmentation for Deep Active Learning (NeurIPS 2021)
 
 ## Requirements
 
